@@ -1,6 +1,6 @@
 Name:		python-python-youtube
 Version:	0.9.9
-Release:	1
+Release:	2
 Summary:	A Python wrapper around for YouTube Data API
 License:	MIT
 Group:		Development/Python
